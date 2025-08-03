@@ -10,7 +10,7 @@ It allows Sora to interface with your personal Plex server.
 1. **Configure Your Server Info**  
    Open the JS file and replace the placeholders with:
    - Your Plex server's base URL (e.g., `https://192.168.0.1:32400`)
-   - Your Plex auth token  
+   - Your Plex auth token (e.g., `d5Gv0NqZa1Xr7KyUbTc9`, not a real token of course lol)  
      [How to find your Plex token →](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/)
 
 2. **Host the Files Privately**  
