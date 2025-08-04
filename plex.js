@@ -8,7 +8,7 @@
 //
 // Provide the IP and port of your Plex server in the baseUrl variable.
 // Provide your Plex token in the plexToken variable. To grab your plex token, 
-// please viist https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
+// please visit https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
 //
 // Make sure to host this file on a private webserver or a private GitHub repository!
 //
