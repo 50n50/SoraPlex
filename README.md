@@ -5,7 +5,24 @@ It allows Sora to interface with your personal Plex server.
 
 ---
 
-## 🔧 Setup Instructions
+## 🔧 [Recommended] Setup Instructions
+
+1. **Install Luna Media App on iOS**
+- Link to be updated here
+
+2: **Add the JSON file linked in this repo in the app**
+
+3: **Modify the service settings**
+   Open the services menu and click on the pencil next to the Plex logo.
+   - Input your Plex token and BaseURL, these will remain completely offline, so this is the safest method!
+
+4: **Activate the service and enjoy!**
+
+**Note:** Currently it is only possible to use this in Luna, but the settings options will be added to Sora before updates get dropped in favor of Luna.
+
+---
+
+## 🔧 [Manual] Setup Instructions
 
 1. **Configure Your Server Info**  
    Open the JS file and replace the placeholders with:
