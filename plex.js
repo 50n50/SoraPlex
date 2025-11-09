@@ -13,9 +13,10 @@
 // Make sure to host this file on a private webserver or a private GitHub repository!
 //
 
-
-const baseUrl = "PUT BASE URL HERE"; // e.g., "http://192.168.0.1:32400";
-const plexToken = "PUT PLEX TOKEN HERE"; // usually a 20 character string, made up of letters and numbers
+// Settings start
+const baseUrl = "PUT BASE URL HERE"; // E.g., "http://192.168.0.1:32400";
+const plexToken = "PUT PLEX TOKEN HERE"; // Usually a 20 character string, made up of letters and numbers
+// Settings end
 
 //
 // Do not edit below this line unless you know what you're doing.
